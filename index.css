@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+}
+.text h1{
+
+    font-family: 'Poppins', sans-serif;
+}
+.img{
+
+    background-image: url("images/shapes/shape1.png");
+}
